@@ -1,7 +1,7 @@
 # Algorithms
 A Swift 2.0 implementation of Algorithms described in [Algorithms 4th Edition (R. Sedgewick &amp; K. Wayne)](http://algs4.cs.princeton.edu/home/)
 
-A rough idea of what will be implemented (or build upon other data structures):
+A rough idea of what will be implemented:
 
 ### Sort
 - Selection sort
